@@ -44,4 +44,4 @@ Pytorch + NPU랩 1기의 목적은 다음과 같습니다.
 ## 강의자료
 - [Week1: Pytorch의 기술적인 배경](https://docs.google.com/presentation/d/1Kiw9UO3dDGSpMBFZID6afmWD0B2O1LkXvv58msmqIis/edit#slide=id.p)
 - [Week2: Pytorch Eager Mode](https://docs.google.com/presentation/d/1FADQMg2oWLiqqeahesLAwDXf_nQ9jKUyBLzJYaQlppw/edit#slide=id.p)
-- [Week3: Pytorch Graph Mode] (https://docs.google.com/presentation/d/1gOI0xOKZarD8JbsEK0ZLv5Wd70YgSA-1Vf7oAQJw-TY/edit#slide=id.p)
+- [Week3: Pytorch Graph Mode](https://docs.google.com/presentation/d/1gOI0xOKZarD8JbsEK0ZLv5Wd70YgSA-1Vf7oAQJw-TY/edit#slide=id.p)
